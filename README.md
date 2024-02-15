@@ -8,3 +8,5 @@
 - Express.js
 - Node.js
 - Chatengine.io
+
+// This project was made just to demonstrate how a chat application could work, and isn't the final project :)
